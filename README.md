@@ -71,3 +71,24 @@ Technologies Used:
 HTML
 CSS
 Java Script
+
+Getting Started
+To get started with any of the projects, follow the setup instructions provided above. Make sure you have the required software and dependencies installed. If you encounter any issues, refer to the Troubleshooting section or open an issue on GitHub.
+
+Contributing
+We welcome contributions to the Codsoft Internship Projects! If you have suggestions for improvements or bug fixes, please follow these steps:
+
+Fork the repository.
+Create a new branch for your changes.
+Make your changes and commit them with a clear message.
+Push your branch to your forked repository.
+Open a pull request with a detailed description of your changes.
+License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+Contact
+For any questions or feedback, please reach out to:
+
+Email: arpitsaxenabtp@gmail.com
+LinkedIn: https://www.linkedin.com/in/arpitsn11/
+Thank you for checking out the Codsoft Internship Projects! We hope you find the projects insightful and valuable.
